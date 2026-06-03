@@ -12,13 +12,10 @@
       ~paxbar official V2 - 04/06/2026
       
 
-✨ Just a beginner Creator Script ( basic ) 
-</>paxbar official <\>
+**—( SELF )** 
+_I'm paxbar official beginner_ 
 
-—( SELF ) 
-I'm paxbar official beginner 
-
-<h1 align="center">⚡ Paxbar V2 </h1>
+<h1 align="center">🌐 paxbar V2 </h1>
 
 <p align="center">
   <b>Minimal • Powerful • Multi Device</b><br>
