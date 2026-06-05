@@ -2,7 +2,13 @@
   <img src="https://i.imghippo.com/files/z4933PSo.jpg" alt="PAXBAR VERSION 2" width="100%">
 </p>
 
-  
+---
+<p align="center">
+  <b>DOWNLOAD VIA MEDIAFIRE</b><br><br>
+  <a href="https://www.mediafire.com/file/zeflj4s0mjhukmz/🦄Ƨᄃ+-+PΛXBΛЯ+V2.zip/file">🌐 Click To Download </a>
+</p>
+
+---  
           KATA KATA HARI INI
       - "Bila kegagalan itu hujan, dan ke berhasilan bagaikan matahari, maka butuh keduanya untuk melihat pelangi"
       
