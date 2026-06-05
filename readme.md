@@ -65,7 +65,8 @@ not allowed to sell.
 
  `settings.js` :
 
-    tidak perlu mengubah settings.js secara manual karena sudah tersedia secara otomatis jika di run!
+    tidak perlu mengubah settings.js,
+    secara manual karena sudah tersedia secara otomatis jika di run!
 
 ---
 
